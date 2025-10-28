@@ -32,12 +32,16 @@ Frontend Architecture | 3D Web Experiences | UX/UI Design
   <a href="https://youtube.com/@4ndreaflows?si=1p5SaRy5oJmsnXLb" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="https://www.instagram.com/yourhandle/" target="_blank">
+  <a href="instagram.com/4ndreaflows" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:andreapalacios481@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  ### 🎧 My Coding Playlist  
+<a href="https://open.spotify.com/playlist/6k3LBMFZA2fS2g96xWuJWS?si=AU-YbjiBSM-fLr08ldpLtA" target="_blank">
+  <img src="https://img.shields.io/badge/Spotify%20Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+</a>
 </p>
 
 ---
